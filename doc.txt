@@ -1,0 +1,2 @@
+"no-error" - safe mode
+"error" - test mode
